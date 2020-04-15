@@ -1,5 +1,7 @@
 A simple memory game that requires the user to match similar cards in the least number of moves.
 
+You can see the game here https://bigbrainapp.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
